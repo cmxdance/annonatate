@@ -1,0 +1,38 @@
+---
+canvas: "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9066797j/canvas/f84"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "A heading appears in the middle of the page: INCIPIT LIBER - TERTIUS (\u201cTHE THIRD BOOK BEGINS\u201d). Ovid\u2019s original work would have likely devoted a separate papyrus roll to each book, but the codex format permits works longer than those accommodated by a conventional bookroll. [\u2026] Multiple poetic works are here collected into one volume, with the beginning of Amores Book 3 arriving on the 83rd surviving page (the verso of the 41st leaf). In addition to nearly all of Amores Books 1, 2, and 3, this manuscript contains most of Ovid\u2019s Heroides, epistolary poems presenting amatory letters from mythological women to men. For the unconventional sequence of Ovid\u2019s works in this manuscript (i.e., the Amores following the Heroides), see McKie 1986: 229.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "cmxdance",
+                "name": "cmxdance"
+            },
+            "created": "2024-10-01T21:43:58.262Z",
+            "modified": "2024-10-01T21:44:20.031Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9066797j/f84/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9066797j/canvas/f84",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=851.8909912109375,1261.961669921875,1437.2340087890625,215.0595703125"
+        }
+    },
+    "id": "b2ec4fd9-9ca4-4124-bebe-5a6fedcc82ae.json",
+    "motivation": "commenting"
+}
