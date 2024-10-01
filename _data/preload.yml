@@ -1,3 +1,9 @@
-images: []
+images:
+- added: '2024-10-01 21:40:24.679339'
+  iiif: true
+  thumbnail: ''
+  title: ''
+  url: https://www.e-codices.unifr.ch/metadata/iiif/csg-0864/annotation/csg-0864_384.json
+  user: cmxdance
 settings: {}
 version: '2.1'
