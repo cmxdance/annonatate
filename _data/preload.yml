@@ -1,3 +1,9 @@
-images: []
+images:
+- added: '2024-10-01 21:41:07.498441'
+  iiif: true
+  thumbnail: https://gallica.bnf.fr/ark:/12148/btv1b9066797j.thumbnail
+  title: "BnF. D\xE9partement des Manuscrits. Latin 8242"
+  url: https://gallica.bnf.fr/iiif/ark:/12148/btv1b9066797j/f84/manifest.json
+  user: cmxdance
 settings: {}
 version: '2.1'
