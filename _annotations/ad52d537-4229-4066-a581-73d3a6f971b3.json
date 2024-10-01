@@ -1,0 +1,38 @@
+---
+canvas: "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9066797j/canvas/f84"
+order: 2
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "The \u201cdrop capital\u201d S forces an indentation of the third verse which would otherwise be aligned with the odd verses that follow. The poem\u2019s speaker draws oblique attention to the length of lines in v. 8 (see below). In the 11th c. manuscript known as Codex S (Sangallensis 864), space is left for a drop capital that was never added. Its absence draws even more attention to the scribe\u2019s decision not to indent every other line of the elegiac couplet in the codex.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "cmxdance",
+                "name": "cmxdance"
+            },
+            "created": "2024-10-01T21:44:58.139Z",
+            "modified": "2024-10-01T21:45:17.167Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9066797j/f84/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9066797j/canvas/f84",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=641.9434814453125,1356.9732666015625,242.4451904296875,441.6282958984375"
+        }
+    },
+    "id": "ad52d537-4229-4066-a581-73d3a6f971b3.json",
+    "motivation": "commenting"
+}
