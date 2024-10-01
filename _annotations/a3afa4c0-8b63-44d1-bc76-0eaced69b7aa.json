@@ -1,0 +1,38 @@
+---
+canvas: "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9066797j/canvas/f84"
+order: 3
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "The ampersand in u&tus highlights the origins of the symbol as a ligature of et, a Latin word meaning \u201cand.\u201d It functions here merely as a shorthand for the -et- letter sequence in the middle of uetus. The following word is a conventional ampersand meaning \u201cand.\u201d An approximation of the effect can be recreated if the first words of the verse are translated, \u201cThere st&s an aged &, for many years, pristine wood\u2026\u201d",
+            "purpose": "commenting",
+            "creator": {
+                "id": "cmxdance",
+                "name": "cmxdance"
+            },
+            "created": "2024-10-01T21:46:22.921Z",
+            "modified": "2024-10-01T21:46:35.904Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9066797j/f84/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9066797j/canvas/f84",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=987.2245483398438,1450.4857177734375,301.81951904296875,95.1300048828125"
+        }
+    },
+    "id": "a3afa4c0-8b63-44d1-bc76-0eaced69b7aa.json",
+    "motivation": "commenting"
+}
