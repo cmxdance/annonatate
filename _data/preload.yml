@@ -1,3 +1,9 @@
-images: []
+images:
+- added: '2024-10-01 21:38:56.391730'
+  iiif: true
+  thumbnail: ''
+  title: ''
+  url: https://iiif.archivelab.org/iiif/operaovoid01ovid$91/manifest.json
+  user: cmxdance
 settings: {}
 version: '2.1'
